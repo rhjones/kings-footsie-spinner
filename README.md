@@ -2,7 +2,7 @@
 
 Fun fact: Twister was [originally named Kings Footsie](https://en.wikipedia.org/wiki/Twister_(game)).
 
-This tiny React app automatically chooses one of four appendages (left foot, right foot, left hand, right hand), plus one of four colors (red, green, yellow, blue), every six seconds. The background color and text will change to reflect the new move and color, and the [https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis](SpeechSynthesis) API will call out the play.
+This tiny React app automatically chooses one of four appendages (left foot, right foot, left hand, right hand), plus one of four colors (red, green, yellow, blue), every six seconds. The background color and text will change to reflect the new move and color, and the [SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) API will call out the play.
 
 Click start to start. Click stop to stop.
 
