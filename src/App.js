@@ -4,11 +4,11 @@ import './App.css';
 const appendages = ['right hand', 'right foot', 'left hand', 'left foot'];
 const colors = ['red', 'green', 'yellow', 'blue'];
 
-const possibleSpins = appendages.reduce(
+export const possibleSpins = appendages.reduce(
   (options, part) => [...options, ...colors.map(color => ({
     color,
     part,
-    audio: new SpeechSynthesisUtterance(`${part} ${color}`)
+    audio: 'speechSynthesis' in window ? new SpeechSynthesisUtterance(`${part} ${color}`) : null,
   }))],
   []
 );
@@ -30,7 +30,9 @@ class App extends Component {
   executeSpin = () => {
     const spin = getSpin();
     this.setState({spin});
-    window.speechSynthesis.speak(spin.audio);
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.speak(spin.audio);
+    }
   }
 
   timer;
