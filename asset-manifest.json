@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kings-footsie-spinner/static/css/main.ed396c5d.chunk.css",
-    "main.js": "/kings-footsie-spinner/static/js/main.3cdd5547.chunk.js",
-    "main.js.map": "/kings-footsie-spinner/static/js/main.3cdd5547.chunk.js.map",
+    "main.js": "/kings-footsie-spinner/static/js/main.e9315b22.chunk.js",
+    "main.js.map": "/kings-footsie-spinner/static/js/main.e9315b22.chunk.js.map",
     "runtime-main.js": "/kings-footsie-spinner/static/js/runtime-main.6a839684.js",
     "runtime-main.js.map": "/kings-footsie-spinner/static/js/runtime-main.6a839684.js.map",
     "static/js/2.c6e8c3dc.chunk.js": "/kings-footsie-spinner/static/js/2.c6e8c3dc.chunk.js",
     "static/js/2.c6e8c3dc.chunk.js.map": "/kings-footsie-spinner/static/js/2.c6e8c3dc.chunk.js.map",
     "index.html": "/kings-footsie-spinner/index.html",
-    "precache-manifest.0fe6487b57e29a121f32e3448aa8aa9d.js": "/kings-footsie-spinner/precache-manifest.0fe6487b57e29a121f32e3448aa8aa9d.js",
+    "precache-manifest.490f1e402c7c7040a42a112ff2933ee3.js": "/kings-footsie-spinner/precache-manifest.490f1e402c7c7040a42a112ff2933ee3.js",
     "service-worker.js": "/kings-footsie-spinner/service-worker.js",
     "static/css/main.ed396c5d.chunk.css.map": "/kings-footsie-spinner/static/css/main.ed396c5d.chunk.css.map",
     "static/js/2.c6e8c3dc.chunk.js.LICENSE.txt": "/kings-footsie-spinner/static/js/2.c6e8c3dc.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6a839684.js",
     "static/js/2.c6e8c3dc.chunk.js",
     "static/css/main.ed396c5d.chunk.css",
-    "static/js/main.3cdd5547.chunk.js"
+    "static/js/main.e9315b22.chunk.js"
   ]
 }

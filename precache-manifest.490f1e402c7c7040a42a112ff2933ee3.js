@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70dcee66f4d0f5e882d5b83eb377a72f",
+    "revision": "ebb0f21290e1902bf37ff5d3f5128f68",
     "url": "/kings-footsie-spinner/index.html"
   },
   {
-    "revision": "43fd64274e8f3630adc0",
+    "revision": "951c8e11e136aaa1cb1c",
     "url": "/kings-footsie-spinner/static/css/main.ed396c5d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kings-footsie-spinner/static/js/2.c6e8c3dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43fd64274e8f3630adc0",
-    "url": "/kings-footsie-spinner/static/js/main.3cdd5547.chunk.js"
+    "revision": "951c8e11e136aaa1cb1c",
+    "url": "/kings-footsie-spinner/static/js/main.e9315b22.chunk.js"
   },
   {
     "revision": "a2bdfd3862829ced0d0f",

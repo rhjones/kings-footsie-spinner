@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kings-footsie-spinner/precache-manifest.0fe6487b57e29a121f32e3448aa8aa9d.js"
+  "/kings-footsie-spinner/precache-manifest.490f1e402c7c7040a42a112ff2933ee3.js"
 );
 
 self.addEventListener('message', (event) => {
