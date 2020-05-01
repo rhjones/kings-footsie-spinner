@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "437d81b81dbf48ba3363120a1d1d9907",
+    "revision": "70dcee66f4d0f5e882d5b83eb377a72f",
     "url": "/kings-footsie-spinner/index.html"
   },
   {
