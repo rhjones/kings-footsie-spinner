@@ -3,7 +3,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -12,21 +11,29 @@
   color: white;
 }
 
+.red {
+  background-color: #ca303d;
+}
+
+.green {
+  background-color: #a0a433;
+}
+
+.yellow {
+  background-color: #eec634;
+}
+
+.blue {
+  background-color: #436b6f;
+}
+
 .Btn {
-    display: inline-block;
     border: 3px solid #ffffff;
     padding: 1rem 2rem;
-    margin: 0;
-    text-decoration: none;
     background-color: inherit;
     color: inherit;
     font-size: 3vmin;
     cursor: pointer;
-    text-align: center;
-    transition: background 250ms ease-in-out,
-                transform 150ms ease;
-    -webkit-appearance: none;
-    -moz-appearance: none;
 }
 
 .Btn:focus {
