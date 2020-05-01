@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
 import './App.css';
 
-const bodyParts = ['right hand', 'right foot', 'left hand', 'left foot'];
+const appendages = ['right hand', 'right foot', 'left hand', 'left foot'];
 const colors = ['red', 'green', 'yellow', 'blue'];
 
-const twisterOptions = bodyParts.reduce(
+const possibleSpins = appendages.reduce(
   (options, part) => [...options, ...colors.map(color => ({
     color,
     part,
@@ -13,9 +13,9 @@ const twisterOptions = bodyParts.reduce(
   []
 );
 
-const optionCount = twisterOptions.length;
+const optionCount = possibleSpins.length;
 
-const getSpin = () => twisterOptions[Math.floor(Math.random() * optionCount)];
+const getSpin = () => possibleSpins[Math.floor(Math.random() * optionCount)];
 
 class App extends Component {
   state = {
@@ -36,9 +36,7 @@ class App extends Component {
   timer;
 
   startSpinning = () => {
-    this.timer = setInterval(() => {
-      this.executeSpin();
-    }, 6000);
+    this.timer = setInterval(this.executeSpin, 6000);
   };
 
   stopSpinning = () => {
