@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kings-footsie-spinner/static/css/main.ed396c5d.chunk.css",
-    "main.js": "/kings-footsie-spinner/static/js/main.e9315b22.chunk.js",
-    "main.js.map": "/kings-footsie-spinner/static/js/main.e9315b22.chunk.js.map",
-    "runtime-main.js": "/kings-footsie-spinner/static/js/runtime-main.6a839684.js",
-    "runtime-main.js.map": "/kings-footsie-spinner/static/js/runtime-main.6a839684.js.map",
-    "static/js/2.c6e8c3dc.chunk.js": "/kings-footsie-spinner/static/js/2.c6e8c3dc.chunk.js",
-    "static/js/2.c6e8c3dc.chunk.js.map": "/kings-footsie-spinner/static/js/2.c6e8c3dc.chunk.js.map",
+    "main.css": "/kings-footsie-spinner/static/css/main.d1f310c8.chunk.css",
+    "main.js": "/kings-footsie-spinner/static/js/main.eaee7ba1.chunk.js",
+    "main.js.map": "/kings-footsie-spinner/static/js/main.eaee7ba1.chunk.js.map",
+    "runtime-main.js": "/kings-footsie-spinner/static/js/runtime-main.c147acf2.js",
+    "runtime-main.js.map": "/kings-footsie-spinner/static/js/runtime-main.c147acf2.js.map",
+    "static/js/2.629a3c9e.chunk.js": "/kings-footsie-spinner/static/js/2.629a3c9e.chunk.js",
+    "static/js/2.629a3c9e.chunk.js.map": "/kings-footsie-spinner/static/js/2.629a3c9e.chunk.js.map",
     "index.html": "/kings-footsie-spinner/index.html",
-    "precache-manifest.490f1e402c7c7040a42a112ff2933ee3.js": "/kings-footsie-spinner/precache-manifest.490f1e402c7c7040a42a112ff2933ee3.js",
+    "precache-manifest.965144db23f473c0499ce648f1d6bdfa.js": "/kings-footsie-spinner/precache-manifest.965144db23f473c0499ce648f1d6bdfa.js",
     "service-worker.js": "/kings-footsie-spinner/service-worker.js",
-    "static/css/main.ed396c5d.chunk.css.map": "/kings-footsie-spinner/static/css/main.ed396c5d.chunk.css.map",
-    "static/js/2.c6e8c3dc.chunk.js.LICENSE.txt": "/kings-footsie-spinner/static/js/2.c6e8c3dc.chunk.js.LICENSE.txt"
+    "static/css/main.d1f310c8.chunk.css.map": "/kings-footsie-spinner/static/css/main.d1f310c8.chunk.css.map",
+    "static/js/2.629a3c9e.chunk.js.LICENSE.txt": "/kings-footsie-spinner/static/js/2.629a3c9e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a839684.js",
-    "static/js/2.c6e8c3dc.chunk.js",
-    "static/css/main.ed396c5d.chunk.css",
-    "static/js/main.e9315b22.chunk.js"
+    "static/js/runtime-main.c147acf2.js",
+    "static/js/2.629a3c9e.chunk.js",
+    "static/css/main.d1f310c8.chunk.css",
+    "static/js/main.eaee7ba1.chunk.js"
   ]
 }
